@@ -17,8 +17,8 @@ Le système est **modulaire** et s’appuie sur des techniques d’**intelligenc
 - Et la **classification de la couleur** des véhicules.
 
 L’objectif principal est de créer un pipeline robuste capable de traiter des **flux vidéo** ou des **images**, de **localiser précisément** les plaques, d’**extraire les caractères**, et de **suivre les véhicules** à travers plusieurs trames.
-![Exemple ALPR 1](images/example_alpr_1.png)
-![Exemple ALPR 2](images/example_alpr_2.png)
+![Exemple ALPR 1](https://github.com/DzVisionAI/alpr_dz/blob/main/example_alpr_1.png)
+![Exemple ALPR 2](https://github.com/DzVisionAI/alpr_dz/blob/main/example_alpr_2.png)
 🔗 **Code source et ressources :** [https://github.com/DzVisionAI](https://github.com/DzVisionAI)
 
 ---
